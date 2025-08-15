@@ -23,3 +23,5 @@ function operation(num1,num2,operator="+"){
 }
 
 console.log(operation(num1,num2,operator))
+
+
